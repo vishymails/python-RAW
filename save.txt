@@ -1,0 +1,4 @@
+filename=save.txt
+name=D
+value=3
+color=blue
